@@ -26,8 +26,8 @@ cd memory-game
 **Compile and Run: If you're using the command line:**
 
 ```bash
-javac MemoryGame.java
-java MemoryGame
+javac Game.java
+java Game
 ```
 If you're using an IDE, open the project in your preferred IDE, build it, and run the MemoryGame.java file.
 
